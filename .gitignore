@@ -1,0 +1,11 @@
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# VS Code settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
